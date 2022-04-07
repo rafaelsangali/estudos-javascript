@@ -15,7 +15,7 @@ console.log(resultado);
 //3
 
 function saudacao () {
-    
+     
 }
 console.log(saudacao("Oi eu sou o Goku!"))
 
